@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "TransformTool-gh-pages",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TransformTool-gh-pages"
+	}
+}

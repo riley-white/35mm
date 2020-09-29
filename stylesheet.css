@@ -1,0 +1,36 @@
+@font-face {
+  font-family: VCR OSD Mono;
+  src: url(VCR_OSD_MONO_1.001.ttf);
+}
+
+body {
+  font-family: VCR OSD Mono;
+}
+#header {
+  text-align: center;
+}
+
+#nav ul {
+  list-style-type: none;
+}
+
+.hero-image {
+  background-image: url("000031.JPG"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 800px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+h1 {
+  display: block;
+  font-size: 5em;
+  margin-top: 2em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+}
+
+
