@@ -2,6 +2,11 @@
  * Captures mouse position within the context
  * of a DOM element.
  */
+
+function goBack() {
+	window.history.back();
+  }
+  
 var Mouse = {};
 Mouse.x = 0;
 Mouse.y = 0;
